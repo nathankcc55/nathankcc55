@@ -2,7 +2,7 @@
 
 Welcome! I'm Nathan. Currently an Economics graduate from the University of Southern California. I am interested in data analytics.
 
-- SQL querying
+- Querying with SQL
 - Developing dashboards using Tableau
 - Data analysis in Python, R, and Excel
 
