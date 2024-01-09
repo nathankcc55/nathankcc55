@@ -1,6 +1,6 @@
 ### Introduction 👋
 
-Welcome! I'm Nathan. Currently an Economics graduate from the University of Southern California. I am interested in Economics, Econometrics, and Data Analytics.
+Welcome! I'm Nathan. I am an Economics graduate from the University of Southern California. I am interested in Economics, Econometrics, and Data Analytics.
 
 - Querying with SQL
 - Developing dashboards using Tableau
