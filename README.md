@@ -1,16 +1,21 @@
 ### Introduction 👋
 
-Welcome! I'm Nathan. I am an Economics graduate from the University of Southern California. I am interested in Economics, Econometrics, and Data Analytics.
+Welcome! I'm Nathan. I'm an Economics graduate from the University of Southern California and am currently pursuing my Master of Science in Analytics through Georgia Tech's OMSA program. I’m passionate about Economics, Econometrics, and Data Analytics, with a growing focus on machine learning, cloud computing, and scalable data systems.
 
+- Predictive modeling
 - Querying with SQL
-- Developing dashboards using Tableau
-- Data analysis in Python, R, and Excel
+- Developing dashboards
 
 ### 🛠️ Tools
 
-- Language: Python, R, SQL, Tableau
-- Database: MySQL, Oracle
-- Visualization: Tableau
+- Programming & Analysis: Python, R, SQL, Excel
+- Data Engineering & Cloud: Spark, Hadoop, Docker, Databricks, AWS, GCP (Cloud Storage, BigQuery), Azure
+- Machine Learning & Modeling: Supervised Learning (Ensemble Methods, Regression-based, SVM), Time-Series Forecasting, Neural Networks, Cross-Validation
+- Visualization & BI: Tableau, PowerBI, RShiny, D3.js, Matplotlib, Seaborn
+- Databases & Querying: SQLite, Oracle
+- Tools & Platforms: OpenRefine, Jupyter, VSCode, Git, Monday.com
+- Process Optimization: Lean Six Sigma, A/B Testing, KPI Development
+- Languages: English, Chinese (Mandarin & Cantonese), German (ein bisschen!)
 
 ### 📫 How to Reach Me!
 
