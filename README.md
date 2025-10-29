@@ -1,10 +1,6 @@
 ### Introduction 👋
 
-Welcome! I'm Nathan. I'm an Economics graduate from the University of Southern California and am currently pursuing my Master of Science in Analytics through Georgia Tech's OMSA program. I’m passionate about Economics, Econometrics, and Data Analytics, with a growing focus on machine learning, cloud computing, and scalable data systems.
-
-- Predictive modeling
-- Querying with SQL
-- Developing dashboards
+Welcome! I'm Nathan. I'm an Economics graduate from the University of Southern California and am currently pursuing my Master of Science in Analytics through Georgia Tech's OMSA program. I combine my interests in Economics, Healthcare, and Data Analytics, with a growing focus on machine learning, cloud computing, and scalable data systems.
 
 ### 🛠️ Tools
 
