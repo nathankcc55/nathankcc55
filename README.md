@@ -35,20 +35,17 @@ Stakeholder Communication: Translated complex technical findings into actionable
 
 ### 🛠️ **Tools**
 
-- Programming & Analysis: Python (Pandas, Scikit-learn, XGBoost), R (Tidyverse, ggplot2, Simmer), SQL, Excel (PowerQuery, Formulas), VBA
+- Programming & Analysis: Python (Pandas, Scikit-learn), R (Tidyverse, ggplot2, Simmer), SQL, Excel (PowerQuery, Formulas), VBA
 - Data Engineering & Cloud: GCP (Cloud Storage, BigQuery), Docker, Spark, Hadoop, Databricks, AWS, Azure
 - Machine Learning & Modeling:
   - Clustering Techniques (Spectral Custering, K-Means)
   - Advanced Density Estimation (Gaussian Mixture Models, Expectation-Maximization)
-  - Classification & Ensemble Methods (Naive Bayes, Logistic Regression, AdaBoost)
-  - Dimensionality Reduction (PCA, Nonlinear techniques)
+  - Classification & Ensemble Methods (RandomForest, SVM, Naive Bayes, Logistic Regression, AdaBoost, XGBoost)
+  - Dimensionality Reduction (PCA, ISOMAP)
   - Neural Networks
-  - Anomaly Detection (SVM)
-- Optimization & Math:
-  - Linear Programming
-  - Optimization Theory
-  - K-Means Clustering
-  - PCA
+  - Anomaly Detection
+  - Panel Data Analysis & Econometrics
+- Optimization & Math: Linear Programming, Optimization Theory
 - Visualization & BI: Tableau, PowerBI, RShiny, D3.js, Matplotlib, Seaborn, kableExtra
 - Databases & Querying: SQLite, Oracle
 - Tools & Platforms: OpenRefine, Jupyter, VSCode, Git, Monday.com
