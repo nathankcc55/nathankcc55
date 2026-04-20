@@ -33,12 +33,15 @@ Predictive Modeling: Developed and deployed machine learning models (Ensemble me
 Data Pipeline Development: Utilized PowerQuery and VBA to clean and automate large-scale datasets, ensuring data integrity for downstream analytics and reporting.
 Stakeholder Communication: Translated complex technical findings into actionable insights for non-technical leadership using Tableau and Power BI dashboards.
 
-### 🛠️ **Tools **
+### 🛠️ **Tools**
 
-- Programming & Analysis: Python, R, SQL, Excel
-- Data Engineering & Cloud: Spark, Hadoop, Docker, Databricks, AWS, GCP (Cloud Storage, BigQuery), Azure
-- Machine Learning & Modeling: Supervised Learning (Ensemble Methods, Regression-based, SVM), Time-Series Forecasting, Neural Networks, Cross-Validation
-- Visualization & BI: Tableau, PowerBI, RShiny, D3.js, Matplotlib, Seaborn
+- Programming & Analysis: Python (Pandas, Scikit-learn, XGBoost), R (Tidyverse, ggplot2, Simmer), SQL, Excel (PowerQuery, Formulas), VBA
+- Data Engineering & Cloud: GCP (Cloud Storage, BigQuery), Docker, Spark, Hadoop, Databricks, AWS, Azure
+- Machine Learning & Modeling:
+  - Advanced Density Estimation (Gaussian Mixture Models, Expectation-Maximization)
+- Ensemble Methods (Random Forest, XGBoost, AdaBoost), Stochastic Simulation, Time-Series Forecasting (Exponential Smoothing), Neural Networks, SVM, Cross-Validation
+- Optimization & Math: Linear Programming (
+- Visualization & BI: Tableau, PowerBI, RShiny, D3.js, Matplotlib, Seaborn, kableExtra
 - Databases & Querying: SQLite, Oracle
 - Tools & Platforms: OpenRefine, Jupyter, VSCode, Git, Monday.com
 - Process Optimization: Lean Six Sigma, A/B Testing, KPI Development
