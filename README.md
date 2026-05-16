@@ -9,7 +9,7 @@ Welcome! I'm Nathan. I am an upcoming Master's graduate in Analytics at Georgia 
 - Optimization Modeling: Designed a prescriptive model using the HiGHS linear programming solver to optimize permit allocation across 16 facilities, targeting a 95% occupancy rate while minimizing overflow risk.
 - Decision Support: Developed a Streamlit dashboard allowing administrators to toggle between capacity utilization and directional traffic flow (entries vs. exits) to visualize forecast errors in real-time.
 
-2️⃣ **AirInsight: Data-Driven AQI, Health, and Policy Exploration Tool (Fall 2025)**
+2️⃣ **AirInsight: Data-Driven AQI, Health, and Policy Exploration Tool**
 - Architected a platform to explore historical Air Quality Index (AQI) data across U.S. counties, overlaying environmental and health factors like EV charging stations and pollution-related health incidents.
 - Implemented an Additive Holt-Winters exponential smoothing model to forecast AQI trends by accounting for level, trend, and seasonality.
 - Managed a large-scale integration of eight distinct data sources (over 1.5GB of data) using GCP (Google Cloud Platform) for storage and processing.
