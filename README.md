@@ -28,10 +28,10 @@ Welcome! I'm Nathan. I am an upcoming Master's graduate in Analytics at Georgia 
 ### 📖 **Work Experience**
 
 - Merit Medical Asia Co. Ltd. | Hong Kong (March 2025 to Jan 2026)
-  - Process Optimization: Leveraged Lean Six Sigma methodologies to identify bottlenecks in enterprise workflows, implementing data-driven solutions that improved operational efficiency.
   - Predictive Modeling: Developed and deployed machine learning models (Ensemble methods, Regression) to forecast key performance indicators (KPIs) and support executive decision-making.
   - Data Pipeline: Implemented Python, Power Query, and VBA to clean and automate large-scale datasets, ensuring data integrity for downstream analytics and reporting.
   - Stakeholder Communication: Translated technical findings into layman's terms, providing strategic insights for non-technical leadership using dashboards.
+  - Process Optimization: Leveraged Lean Six Sigma methodologies to identify bottlenecks in enterprise workflows, implementing data-driven solutions that improved operational efficiency.
 
 ### 🛠️ **Tools**
 
