@@ -36,7 +36,6 @@ Welcome! I'm Nathan. I am an upcoming Master's graduate in Analytics at Georgia 
 ### 🛠️ **Tools**
 
 - Programming & Analysis: Python (Pandas, Scikit-learn), R (Tidyverse, ggplot2, Simmer), SQL, Excel (PowerQuery, Formulas), VBA
-- Data Engineering & Cloud: GCP (Cloud Storage, BigQuery), Docker, Spark, Hadoop, Databricks, AWS, Azure
 - Machine Learning & Modeling:
   - Clustering Techniques (Spectral Custering, K-Means)
   - Advanced Density Estimation (Gaussian Mixture Models, Expectation-Maximization)
@@ -45,7 +44,10 @@ Welcome! I'm Nathan. I am an upcoming Master's graduate in Analytics at Georgia 
   - Neural Networks
   - Anomaly Detection
   - Panel Data Analysis & Econometrics
-- Optimization & Math: Linear Programming, Optimization Theory
+- Generative AI & LLM:
+  - Frontier Open-weight models
+  - Prompt Engineering (constraints, providing examples)
+- Data Engineering & Cloud: GCP (Cloud Storage, BigQuery), Docker, Spark, Hadoop, Databricks, AWS, Azure
 - Visualization & BI: Tableau, PowerBI, RShiny, D3.js, Matplotlib, Seaborn, kableExtra
 - Databases & Querying: SQLite, Oracle
 - Tools & Platforms: OpenRefine, Jupyter, VSCode, Git, Monday.com
