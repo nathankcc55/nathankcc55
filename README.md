@@ -28,16 +28,14 @@ My motivation stems from a curiosity of behavior. Unlike the natural sciences, w
   - Clustering Techniques (Spectral Custering, K-Means)
   - Advanced Density Estimation (Gaussian Mixture Models, Expectation-Maximization)
   - Classification & Ensemble Methods (RandomForest, SVM, Naive Bayes, Logistic Regression, AdaBoost, XGBoost)
-  - Dimensionality Reduction (PCA, ISOMAP)
-  - Neural Networks
   - Anomaly Detection
   - Panel Data Analysis & Econometrics
 - Generative AI & LLM:
   - Frontier Open-weight models
-  - Prompt Engineering (constraints, providing examples)
+  - Prompt Engineering
 - Data Engineering & Cloud: GCP (Cloud Storage, BigQuery), Docker, Spark, Hadoop, Databricks, AWS, Azure
-- Visualization & BI: Tableau, PowerBI, RShiny, D3.js, Matplotlib, Seaborn, kableExtra
-- Databases & Querying: SQLite, Oracle
+- Visualization & BI: Tableau, PowerBI, RShiny, D3.js, Seaborn, kableExtra
+- Databases & Querying: SQLite
 - Tools & Platforms: OpenRefine, Jupyter, VSCode, Git, Monday.com
 - Process Optimization: Lean Six Sigma, A/B Testing, KPI Development
 - Languages: Native English, Conversational Chinese (Mandarin & Cantonese), ein bisschen Deutsch!
