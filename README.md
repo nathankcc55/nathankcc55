@@ -3,7 +3,7 @@
 Welcome! I'm Nathan. I am a recent graduate in Analytics at Georgia Tech and studied Economics as an undergraduate at the University of Southern California. I combine my interests in Social Sciences and Data Science, with a growing focus on machine learning and scalable data systems.
 My motivation stems from a curiosity of behavior. Unlike the natural sciences, where systems are governed by fixed, predictable laws, human societies are endlessly complex and dynamic. I love diving into raw numbers to uncover what people truly think and value, allowing me to view complex situations from entirely new angles. While analyzing this unstructured, human-driven data is incredibly challenging, uncovering the meaningful patterns behind it is immensely rewarding.
 
-### **Projects**
+### **Notable Projects**
 
 1️⃣ **MASTER'S PRACTICUM: Georgia Tech / Midtown Atlanta Parking Optimization Project (Sponsored by Georgia Tech Infrastructure & Sustainability)**
 - Demand Forecasting: Built a scalable framework comparing Holt-Winters and XGBoost to predict lot-specific demand, utilizing physical gate cycles as a primary metric to capture all entry/exit activity.
@@ -20,11 +20,6 @@ My motivation stems from a curiosity of behavior. Unlike the natural sciences, w
 - Evaluated 179 countries over 16 years to identify key determinants of life expectancy, finding that Gradient Boosting (GBM) and Random Forest (RF) models outperformed traditional linear methods
 - Unsupervised Clustering: Challenged binary World Health Organization development labels by applying K-means clustering to healthcare and educational factors, revealing a more nuanced middle-development tier
 - Addressed severe multicollinearity by analyzing Variance Inflation Factors (VIF) and optimized feature selection using AIC.
-
-4️⃣ **Stochastic Simulation: "28 Kids Later" Disease Modeling**
-- Epidemic Modeling: Programmed a discrete event simulation in R to model influenza transmission within a closed school environment.
-- Sensitivity Analysis: Evaluated the impact of vaccination programs by comparing infection duration and magnitude between 0% and 50% immunization scenarios.
-- Statistical Distribution: Analyzed simulation trials to generate five-number summaries and histograms, identifying a strong right-skewed distribution in epidemic longevity.
 
 ### 🛠️ **Tools**
 
